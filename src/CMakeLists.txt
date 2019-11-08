@@ -30,6 +30,7 @@ set(LIB_SOURCES
     bzero.c
     ctype.c
     errno.c
+    getopt.c
     memchr.c
     memcmp.c
     memcpy.c
