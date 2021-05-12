@@ -34,7 +34,6 @@
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
-#include "unistd.h"
 
 int	optind = 1;		/* index into parent argv vector */
 int	optopt;			/* character checked for validity */
